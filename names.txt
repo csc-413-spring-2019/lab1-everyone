@@ -1,19 +1,19 @@
+ HEAD
 # Write your name!
  Brian Parra
  Hasnain Haider
  Austin Tsang
-<<<<<<< HEAD
- 
-=======
+HEAD
+Jackie Huang
  Gordon Lam
->>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
+ d58b07cadb3bb52410e0a0877760dd62820499d3
 
 
 
 
 
 
-<<<<<<< HEAD
+HEAD
 
 
 
@@ -24,7 +24,7 @@
 
 
  Austin Tsang
-=======
+
 - Chunzheng Yang
 
 - Bakulia Kurmant
@@ -33,7 +33,7 @@
 
 
 
->>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
+ d58b07cadb3bb52410e0a0877760dd62820499d3
 
  Austin Tsang
 
@@ -122,15 +122,12 @@
 - Tigist Ambaw
 
 
-<<<<<<< HEAD
+ HEAD
 
 
-=======
-<<<<<<< HEAD
->>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
->>>>>>> 85c805f4fc3273a0de974920387b3424b6bb0b67
->>>>>>> dbb2e265476d7115f6ea5145c4a568eadd193581
->>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
+
+ HEAD
+
 
 
 
@@ -144,4 +141,8 @@
 
 
 Audrey Wong
+
+
+- yiyu zhang
+-felipe carmona
 
