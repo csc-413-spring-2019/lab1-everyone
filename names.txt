@@ -3,6 +3,10 @@
  
 - Austin Tsang
 
+- Chunzheng Yang
+- malik iscandari
+
+
 
 -Felipe Carmona
 
@@ -29,8 +33,6 @@
 
 - Hasnain Haider
 - Austin Tsang
- 
-
 
 - Brian Le!
 
@@ -62,6 +64,16 @@ HEAD
 
 
 
+- ***Malik Iscandari***
+
+
+
+
+
+
+
+
+- Timothy Wells
 
 
 
@@ -77,16 +89,6 @@ HEAD
 
 
 
-
-
-
-
-
-
-
-
-
-Julio Morales!!!!!!!!!!!
 
 
 
