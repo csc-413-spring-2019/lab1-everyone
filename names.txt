@@ -10,6 +10,7 @@
 
 - Hasnain Haider
 - Austin Tsang
+- Chunzheng Yang
 
 
 
@@ -17,18 +18,13 @@
 
 
 
-<<<<<<< HEAD
-=======
- HEAD
-=======
 - Hasnain Haider
 - Austin Tsang
- 355f94aa10989be6a63ca3190e2047b7a6b79569
+ 
 
 
 - Brian Le!
->>>>>>> e927a5bea39897c56ec71ed29b0b173738a694f3
-=======
+
 
 
 
@@ -73,4 +69,7 @@
 
 
 - Timothy Wells
+<<<<<<< HEAD
 >>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
+=======
+>>>>>>> f447754d3c66d45d41b13b74165b43b26a601752
