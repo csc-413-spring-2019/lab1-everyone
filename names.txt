@@ -1,3 +1,124 @@
 # Write your name!
+<<<<<<< HEAD
+ Brian Parra
+ Hasnain Haider
+ Austin Tsang
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Austin Tsang
+
+
+-Felipe Carmona
+- Raymond W Gee
+
+
 - Brian Parra
-— Raymond W Gee
+
+- Austin Tsang
+- Jason Wei
+
+- Dang Le
+
+
+
+- Hasnain Haider
+- Austin Tsang
+- Chunzheng Yang
+
+- Thomas Tran
+
+
+
+
+
+- Hasnain Haider
+- Austin Tsang
+ 
+
+
+- Brian Le!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Nicole Bernardo
+- Hasnain Haider
+- Austin Tsang
+
+- Brian Le!
+- Chris Jol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Timothy Wells
+
+
+
+
+- Tigist Ambaw
+- JunMin Li
+
+
+- Tigist Ambaw
+
+
+<<<<<<< HEAD
+>>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
+>>>>>>> 85c805f4fc3273a0de974920387b3424b6bb0b67
+>>>>>>> dbb2e265476d7115f6ea5145c4a568eadd193581
+
+
+
+
+
+
+
+
+
+
+
+
+Audrey Wong
