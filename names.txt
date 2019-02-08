@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+-Raymond W Gee
+
+
+
 # Write your name!
-<<<<<<< HEAD
+
  Brian Parra
  Hasnain Haider
  Austin Tsang
@@ -34,11 +37,10 @@ Carlos Roldan
 
 
 
-<<<<<<< HEAD
-=======
+
  Austin Tsang
 
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
 - Chunzheng Yang
 
 - Bakulia Kurmant
@@ -48,23 +50,29 @@ Carlos Roldan
 
 
 <<<<<<< HEAD
+
+=======
+-Aaron Li
+=======
+
+
 =======
  d58b07cadb3bb52410e0a0877760dd62820499d3
 >>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+>>>>>>> b858d18f9ff133d4c06baeb66b5d74b0810ce172
 
  Austin Tsang
 
+>>>>>>> 998a8e98ae33f62506b10f37970c5224fea74da2
 -Felipe Carmona
 
 
 
 - Brian Parra
 
-<<<<<<< HEAD
-=======
 - Jackie Huang
 
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
 - Austin Tsang
 - Jason Wei
 
@@ -79,17 +87,13 @@ Carlos Roldan
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-=======
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
 - Thomas Tran
 
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 - Hasnain Haider
 - Austin Tsang
  
@@ -118,21 +122,7 @@ Carlos Roldan
 - Chris Jol
 
 
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
 - Andrew Copas
-=======
-
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 
 
 
@@ -154,22 +144,15 @@ Carlos Roldan
 - Tigist Ambaw
 
 
-<<<<<<< HEAD
-=======
- HEAD
 
 
 
- HEAD
-
+-Thomas Yu
 
 
 
 
 
-
-
->>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 
 
 
@@ -196,3 +179,4 @@ Audrey Wong
 
 -Bernardo Bustamante Diaz
 >>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+>>>>>>> 859a5e85b9b1261848baf48156c522abd851be72
