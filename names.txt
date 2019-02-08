@@ -1,6 +1,7 @@
 # Write your name!
-- Brian Parra
 
+- Brian Parra
+- Dang Le
 
 
 - Hasnain Haider
@@ -23,10 +24,11 @@
 
 
 
+
 - Nicole Bernardo
 - Hasnain Haider
-- Austin Tsang
-<<<<<<< HEAD
+- Austin Tsang 
+HEAD
 - Brian Le!
 - Julio Morales
 =======
@@ -59,4 +61,25 @@
 
 
 - Timothy Wells
->>>>>>> f447754d3c66d45d41b13b74165b43b26a601752
+HEAD
+f447754d3c66d45d41b13b74165b43b26a601752
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Tigist Ambaw
+749ab5a1cd72914b03a4f0a428a3038f2be8152a
+Julio Morales!!!!!!!!!!!
