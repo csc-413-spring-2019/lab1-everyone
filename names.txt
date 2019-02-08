@@ -87,11 +87,10 @@
 
 
 
-<<<<<<< HEAD
 - Tigist Ambaw
 - JunMin Li
-=======
+
 
 - Tigist Ambaw
->>>>>>> 0433f54d9f4907f9b5339f5c0fdeb14b3d7943d3
+
 
