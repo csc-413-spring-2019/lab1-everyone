@@ -3,6 +3,10 @@
  
 - Austin Tsang
 
+- Chunzheng Yang
+- malik iscandari
+
+
 
 -Felipe Carmona
 
@@ -29,8 +33,6 @@
 
 - Hasnain Haider
 - Austin Tsang
- 
-
 
 - Brian Le!
 
@@ -58,11 +60,16 @@
 
 
 
+- ***Malik Iscandari***
 
 
 
 
 
+
+
+
+- Timothy Wells
 
 
 
@@ -80,9 +87,11 @@
 
 
 
+<<<<<<< HEAD
+- Tigist Ambaw
+- JunMin Li
+=======
 
 - Tigist Ambaw
+>>>>>>> 0433f54d9f4907f9b5339f5c0fdeb14b3d7943d3
 
-
->>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
->>>>>>> 85c805f4fc3273a0de974920387b3424b6bb0b67
