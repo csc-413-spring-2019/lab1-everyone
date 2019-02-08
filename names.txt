@@ -2,13 +2,18 @@
  Brian Parra
  Hasnain Haider
  Austin Tsang
+<<<<<<< HEAD
  
+=======
+ Gordon Lam
+>>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -19,7 +24,18 @@
 
 
  Austin Tsang
+=======
+- Chunzheng Yang
 
+- Bakulia Kurmant
+
+- malik iscandari
+
+
+
+>>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
+
+ Austin Tsang
 
 -Felipe Carmona
 
@@ -106,8 +122,15 @@
 - Tigist Ambaw
 
 
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+>>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
+>>>>>>> 85c805f4fc3273a0de974920387b3424b6bb0b67
+>>>>>>> dbb2e265476d7115f6ea5145c4a568eadd193581
+>>>>>>> d58b07cadb3bb52410e0a0877760dd62820499d3
 
 
 
