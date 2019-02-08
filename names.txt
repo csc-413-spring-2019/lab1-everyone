@@ -1,7 +1,16 @@
 # Write your name!
 
+ 
+- Austin Tsang
+
+
+-Felipe Carmona
+
+
+
 - Brian Parra
 - Dang Le
+
 
 
 - Hasnain Haider
@@ -11,6 +20,15 @@
 
 
 
+
+
+
+- Hasnain Haider
+- Austin Tsang
+ 
+
+
+- Brian Le!
 
 
 
@@ -61,9 +79,6 @@ HEAD
 
 
 - Timothy Wells
-HEAD
-f447754d3c66d45d41b13b74165b43b26a601752
-=======
 
 
 
@@ -81,5 +96,11 @@ f447754d3c66d45d41b13b74165b43b26a601752
 
 
 - Tigist Ambaw
+HEAD
 749ab5a1cd72914b03a4f0a428a3038f2be8152a
 Julio Morales!!!!!!!!!!!
+
+
+
+749ab5a1cd72914b03a4f0a428a3038f2be8152a
+85c805f4fc3273a0de974920387b3424b6bb0b67
