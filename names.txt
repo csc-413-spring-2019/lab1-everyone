@@ -1,14 +1,23 @@
 # Write your name!
 - Brian Parra
- HEAD
+
+ 
 - Austin Tsang
 -Felipe Carmona
 
 
 
 
+- Hasnain Haider
+- Austin Tsang
 
 
+
+
+
+
+
+<<<<<<< HEAD
 =======
  HEAD
 =======
@@ -19,3 +28,49 @@
 
 - Brian Le!
 >>>>>>> e927a5bea39897c56ec71ed29b0b173738a694f3
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+- Nicole Bernardo
+- Hasnain Haider
+- Austin Tsang
+
+- Brian Le!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Timothy Wells
+>>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
