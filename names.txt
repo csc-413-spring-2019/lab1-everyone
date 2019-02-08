@@ -1,9 +1,37 @@
 # Write your name!
 - Brian Parra
+
+
+
+- Hasnain Haider
+- Austin Tsang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Nicole Bernardo
 - Hasnain Haider
 - Austin Tsang
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
 - Brian Le!
+- Malik Iscandari
 
 
 
@@ -23,4 +51,15 @@
 
 
 
+<<<<<<< HEAD
 - ***Malik Iscandari***
+=======
+
+
+
+
+
+
+
+- Timothy Wells
+>>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
