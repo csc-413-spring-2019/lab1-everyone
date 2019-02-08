@@ -1,7 +1,62 @@
 # Write your name!
 - Brian Parra
+
+
+
+- Hasnain Haider
+- Austin Tsang
+- Chunzheng Yang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Nicole Bernardo
 - Hasnain Haider
 - Austin Tsang
+<<<<<<< HEAD
 - Brian Le!
 - Julio Morales
+=======
+
+- Brian Le!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Timothy Wells
+>>>>>>> f447754d3c66d45d41b13b74165b43b26a601752
