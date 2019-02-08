@@ -1,20 +1,71 @@
+# Write your name!
+ Brian Parra
+ Hasnain Haider
+ Austin Tsang
+ Gordon Lam
+ Onubulachi Wami
+
+
+# Write your name!
+ Brian Parra
+ Hasnain Haider
+ Austin Tsang
 HEAD
-Write your name!
+Jackie Huang
+ Gordon Lam
+ d58b07cadb3bb52410e0a0877760dd62820499d3
 
- 
-- Austin Tsang
 
+
+
+
+
+- Andrew  Copas
+
+
+
+
+Carlos Roldan
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
+
+
+
+<<<<<<< HEAD
+=======
+ Austin Tsang
+
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 - Chunzheng Yang
+
+- Bakulia Kurmant
+
 - malik iscandari
 
 
+
 -Aaron Li
+=======
+
+
+=======
+ d58b07cadb3bb52410e0a0877760dd62820499d3
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
+ Austin Tsang
+
+>>>>>>> 998a8e98ae33f62506b10f37970c5224fea74da2
 -Felipe Carmona
 
 
 
 - Brian Parra
 
+<<<<<<< HEAD
+=======
+- Jackie Huang
+
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 - Austin Tsang
 - Jason Wei
 
@@ -26,14 +77,24 @@ Write your name!
 - Austin Tsang
 - Chunzheng Yang
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+- Thomas Tran
 
 
 
 
+<<<<<<< HEAD
+=======
 
-
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 - Hasnain Haider
 - Austin Tsang
+ 
+
 
 - Brian Le!
 
@@ -61,7 +122,6 @@ Write your name!
 
 
 
-- ***Malik Iscandari***
 
 
 
@@ -69,11 +129,11 @@ Write your name!
 
 
 
+<<<<<<< HEAD
+- Andrew Copas
+=======
 
-- Timothy Wells
-
-
-
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
 
 
 
@@ -95,235 +155,45 @@ Write your name!
 - Tigist Ambaw
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Danny Ceron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Danny Ceron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Danny Ceron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Danny Ceron
+<<<<<<< HEAD
 =======
-Julio Morales
->>>>>>> ef1f4234800dcce89018f51cde499b5ea446b84e
+ HEAD
+
+
+
+ HEAD
+
+
+
+
+
+
+
+
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
+
+
+
+
+
+Audrey Wong
+<<<<<<< HEAD
 =======
-- yiyu zhang
->>>>>>> bb9d425b1b077645333daa9be110409037c5b507
+-Raymond W Gee
+>>>>>>> f7ca9da1a6341fa358834eccf2a4d30021e86052
 =======
+
+
 - yiyu zhang
 -felipe carmona
->>>>>>> e1f0e15ebab7d6c7b6f655a38e5006cd8c225632
+
+=======
+-Raymond W Gee
+-Thomas Zhang
+>>>>>>> 5a0486391b85d0feefa0d7a4a67b75cf8a2d2f55
+
+
+
+
+-Bernardo Bustamante Diaz
+>>>>>>> 73be73e13c083d985c039280c19eeb16e09c8286
