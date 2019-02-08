@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Write your name!
 <<<<<<< HEAD
  Brian Parra
@@ -122,3 +123,6 @@
 
 
 Audrey Wong
+=======
+Julio Morales
+>>>>>>> ef1f4234800dcce89018f51cde499b5ea446b84e
