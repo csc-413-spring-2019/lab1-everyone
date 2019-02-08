@@ -9,6 +9,10 @@
 
 
 - Brian Parra
+
+- Austin Tsang
+- Jason Wei
+
 - Dang Le
 
 
@@ -71,27 +75,7 @@
 
 
 
-
-
-
 - Timothy Wells
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
-=======
->>>>>>> f447754d3c66d45d41b13b74165b43b26a601752
-=======
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -101,3 +85,4 @@
 
 
 >>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
+>>>>>>> 85c805f4fc3273a0de974920387b3424b6bb0b67
