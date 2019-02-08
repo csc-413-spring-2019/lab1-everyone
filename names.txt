@@ -1,10 +1,13 @@
 # Write your name!
-- Brian Parra
 
+- Brian Parra
+- Dang Le
 
 
 - Hasnain Haider
 - Austin Tsang
+- Chunzheng Yang
+- malik iscandari
 
 
 
@@ -31,7 +34,7 @@
 
 >>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
 - Brian Le!
-- Malik Iscandari
+
 
 
 
@@ -62,4 +65,26 @@
 
 
 - Timothy Wells
+<<<<<<< HEAD
 >>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Tigist Ambaw
+
+
+>>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
