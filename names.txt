@@ -1,10 +1,15 @@
 # Write your name!
-- Brian Parra
 
  
 - Austin Tsang
+
+
 -Felipe Carmona
 
+
+
+- Brian Parra
+- Dang Le
 
 
 
@@ -24,6 +29,7 @@
 
 
 - Brian Le!
+
 
 
 
@@ -70,6 +76,28 @@
 
 - Timothy Wells
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
 =======
 >>>>>>> f447754d3c66d45d41b13b74165b43b26a601752
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Tigist Ambaw
+
+
+>>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
