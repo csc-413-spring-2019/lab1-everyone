@@ -9,7 +9,7 @@
  Hasnain Haider
  Austin Tsang
  Gordon Lam
--Thomas Yu
+
 
 
 # Write your name!
