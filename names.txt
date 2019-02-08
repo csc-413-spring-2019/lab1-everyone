@@ -1,17 +1,40 @@
 # Write your name!
 
-- Brian Parra
-- Dang Le
-
-
-- Hasnain Haider
+ 
 - Austin Tsang
+
 - Chunzheng Yang
 - malik iscandari
 
 
 
+-Felipe Carmona
 
+
+
+- Brian Parra
+
+- Austin Tsang
+- Jason Wei
+
+- Dang Le
+
+
+
+- Hasnain Haider
+- Austin Tsang
+- Chunzheng Yang
+
+
+
+
+
+
+
+- Hasnain Haider
+- Austin Tsang
+
+- Brian Le!
 
 
 
@@ -29,10 +52,7 @@
 - Nicole Bernardo
 - Hasnain Haider
 - Austin Tsang
-<<<<<<< HEAD
-=======
 
->>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
 - Brian Le!
 
 
@@ -40,23 +60,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
 - ***Malik Iscandari***
-=======
+
 
 
 
@@ -65,9 +70,6 @@
 
 
 - Timothy Wells
-<<<<<<< HEAD
->>>>>>> 59fb77abd9006c010410be7c6725b6914e5f82d0
-=======
 
 
 
@@ -79,6 +81,8 @@
 
 
 
+
+- Timothy Wells
 
 
 
@@ -86,5 +90,3 @@
 
 - Tigist Ambaw
 
-
->>>>>>> 749ab5a1cd72914b03a4f0a428a3038f2be8152a
