@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 # Write your name!
  Brian Parra
@@ -146,3 +147,7 @@ Audrey Wong
 - yiyu zhang
 -felipe carmona
 
+=======
+-Raymond W Gee
+-Thomas Zhang
+>>>>>>> 5a0486391b85d0feefa0d7a4a67b75cf8a2d2f55
